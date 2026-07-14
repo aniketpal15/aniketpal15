@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="left">Hi there, I'm Aniket Pal 👋</h1>
+<h3 align="left">Full Stack Developer | AI & ML Practitioner | DSA Problem Solver</h3>
 
-<!--
-**aniketpal15/aniketpal15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  I am a Computer Science & Engineering student focused on building scalable web applications, implementing efficient algorithms, and developing intelligent systems. I actively seek opportunities to contribute to impactful software engineering teams.
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 Professional Profile
+- 🧩 **Data Structures & Algorithms:** Successfully completed comprehensive DSA training in Java, mastering core algorithmic patterns, optimization techniques, and competitive programming frameworks.
+- 🌐 **Full-Stack Development:** Actively developing modern web applications utilizing the **MERN Stack** (MongoDB, Express.js, React, Node.js) to build robust, scalable, and responsive full-stack architectures.
+- 🤖 **Artificial Intelligence & Machine Learning:** Deepening my expertise in AI/ML workflows, data preprocessing, and predictive modeling to integrate intelligent capabilities into modern software solutions.
+- 🎓 **Education:** Pursuing a Bachelor of Technology in Computer Science and Engineering.
+- 📫 **Contact:** aniketpal863@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Java, Python, C, JavaScript |
+| **Web Development** | MongoDB, Express.js, React, Node.js, HTML5, CSS3 |
+| **Specializations** | Data Structures & Algorithms (DSA), Artificial Intelligence, Machine Learning |
+| **Tools & Platforms** | Git, GitHub, VS Code |
+
+### 📈 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=aniketpal15&show_icons=true&theme=tokyonight" alt="Aniket's GitHub Stats" />
+</p>
