@@ -17,7 +17,7 @@
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | Java, Python, C, JavaScript |
-| **Web Development** | MongoDB, Express.js, React, Node.js, HTML5, CSS3 |
+| **Web Development** | MongoDB, Express.js, React, Node.js, HTML5, CSS3, SQL|
 | **Specializations** | Data Structures & Algorithms (DSA), Artificial Intelligence, Machine Learning |
 | **Tools & Platforms** | Git, GitHub, VS Code |
 
