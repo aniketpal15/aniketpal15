@@ -4,7 +4,7 @@
 </h1>
 <p align="left">
   <a href="https://github.com/aniketpal15">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&duration=3000&color=22D3EE&center=false&vCenter=true&width=600&lines=DSA+Problem+Solver;AI+%26+ML+Developer;Full+Stack+Developer;Lifelong+Learner..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&duration=1500&color=22D3EE&center=false&vCenter=true&width=600&lines=DSA+Problem+Solver;AI+%26+ML+Developer;Full+Stack+Developer;Lifelong+Learner..." alt="Typing SVG" />
   </a>
 </p>
 
@@ -71,14 +71,14 @@
 
 <!-- Stats + Top languages — side by side -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=aniketpal15&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=00000000&card_width=500&custom_title=Aniket%20Pal's%20GitHub%20Stats&v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=aniketpal15&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=00000000&card_width=500&custom_title=Aniket%20Pal's%20GitHub%20Stats&v=3" />
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=aniketpal15&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=00000000&card_width=500&custom_title=Aniket%20Pal's%20GitHub%20Stats&v=3" alt="Aniket's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=aniketpal15&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=00000000&card_width=400&custom_title=Aniket%20Pal's%20GitHub%20Stats&v=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=aniketpal15&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=00000000&card_width=400&custom_title=Aniket%20Pal's%20GitHub%20Stats&v=4" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=aniketpal15&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=00000000&card_width=400&custom_title=Aniket%20Pal's%20GitHub%20Stats&v=4" alt="Aniket's GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=aniketpal15&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=00000000&card_width=500&custom_title=Most%20Used%20Languages&v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=aniketpal15&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=00000000&card_width=500&custom_title=Most%20Used%20Languages&v=3" />
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aniketpal15&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=00000000&card_width=500&custom_title=Most%20Used%20Languages&v=3" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=aniketpal15&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=00000000&card_width=400&custom_title=Most%20Used%20Languages&v=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=aniketpal15&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=00000000&card_width=400&custom_title=Most%20Used%20Languages&v=4" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aniketpal15&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=00000000&card_width=400&custom_title=Most%20Used%20Languages&v=4" alt="Top languages" />
 </picture>
 
 </div>
