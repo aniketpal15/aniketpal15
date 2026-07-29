@@ -1,25 +1,52 @@
-<h1 align="left">Hi there, I'm Aniket Pal 👋</h1>
-<h3 align="left">Full Stack Developer | AI & ML Practitioner | DSA Problem Solver</h3>
-
+<h1 align="left">
+  Hi there, I'm Aniket Pal 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy2/giphy.gif" width="35" />
+</h1>
 <p align="left">
-  I am a Computer Science & Engineering student focused on building scalable web applications, implementing efficient algorithms, and developing intelligent systems. I actively seek opportunities to contribute to impactful software engineering teams.
+  <a href="https://github.com/aniketpal15">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&duration=3000&color=22D3EE&center=false&vCenter=true&width=600&lines=DSA+Problem+Solver;AI+%26+ML+Developer;Full+Stack+Developer;Lifelong+Learner..." alt="Typing SVG" />
+  </a>
 </p>
 
+<p align="left">
+  <em>I am a Computer Science & Engineering student focused on building scalable web applications, implementing efficient algorithms, and developing intelligent systems. I actively seek opportunities to contribute to impactful software engineering teams.</em> 🚀
+</p>
+
+<br/>
+
 ### 👨‍💻 Professional Profile
-- 🧩 **Data Structures & Algorithms:** Successfully completed comprehensive DSA training in Java, mastering core algorithmic patterns, optimization techniques, and competitive programming frameworks.
-- 🌐 **Full-Stack Development:** Actively developing modern web applications utilizing the **MERN Stack** (MongoDB, Express.js, React, Node.js) to build robust, scalable, and responsive full-stack architectures.
-- 🤖 **Artificial Intelligence & Machine Learning:** Deepening my expertise in AI/ML workflows, data preprocessing, and predictive modeling to integrate intelligent capabilities into modern software solutions.
-- 🎓 **Education:** Pursuing a Bachelor of Technology in Computer Science and Engineering.
-- 📫 **Contact:** aniketpal863@gmail.com
+- <img src="https://img.shields.io/badge/DSA-22D3EE?style=flat&logo=codeforces&logoColor=black" /> Successfully completed comprehensive DSA training in Java, mastering core algorithmic patterns, optimization techniques, and competitive programming frameworks.
+- <img src="https://img.shields.io/badge/AI_/_ML-10B981?style=flat&logo=tensorflow&logoColor=white" /> Deepening my expertise in AI/ML workflows, data preprocessing, and predictive modeling to integrate intelligent capabilities into modern software solutions.
+- <img src="https://img.shields.io/badge/Full_Stack-A78BFA?style=flat&logo=react&logoColor=white" /> Actively developing modern web applications utilizing the **MERN Stack** (MongoDB, Express.js, React, Node.js) to build robust, scalable, and responsive full-stack architectures.
+- <img src="https://img.shields.io/badge/Education-F59E0B?style=flat&logo=google-scholar&logoColor=white" /> Pursuing a Bachelor of Technology in Computer Science and Engineering.
+- <img src="https://img.shields.io/badge/Contact-EF4444?style=flat&logo=gmail&logoColor=white" /> aniketpal863@gmail.com
 
-### 🛠️ Technical Skills
+<br/>
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | Java, Python, C, JavaScript |
-| **Web Development** | MongoDB, Express.js, React, Node.js, HTML5, CSS3, SQL|
-| **Specializations** | Data Structures & Algorithms (DSA), Artificial Intelligence, Machine Learning |
-| **Tools & Platforms** | Git, GitHub, VS Code |
+<h3 align="center">🛠️ Technical Skills</h3>
+
+<table width="100%">
+  <tr>
+    <th width="30%" align="center"><font color="#22D3EE">🗂️ DOMAIN</font></th>
+    <th width="70%" align="center"><font color="#22D3EE">🚀 TECHNOLOGIES</font><img width="1000" height="0" /></th>
+  </tr>
+  <tr>
+    <td align="center"><b><font color="#A78BFA">💻 Languages</font></b></td>
+    <td align="center"><font color="#10B981"><b>Java &bull; Python &bull; C &bull; JavaScript</b></font></td>
+  </tr>
+  <tr>
+    <td align="center"><b><font color="#A78BFA">🌐 Web Development</font></b></td>
+    <td align="center"><font color="#10B981"><b>MongoDB &bull; Express.js &bull; React &bull; Node.js &bull; HTML5 &bull; CSS3 &bull; SQL</b></font></td>
+  </tr>
+  <tr>
+    <td align="center"><b><font color="#A78BFA">🤖 Specializations</font></b></td>
+    <td align="center"><font color="#10B981"><b>DSA &bull; Artificial Intelligence &bull; Machine Learning</b></font></td>
+  </tr>
+  <tr>
+    <td align="center"><b><font color="#A78BFA">⚙️ Tools & Platforms</font></b></td>
+    <td align="center"><font color="#10B981"><b>Git &bull; GitHub &bull; VS Code</b></font></td>
+  </tr>
+</table>
 
 <br />
 
